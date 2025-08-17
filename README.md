@@ -39,11 +39,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madapathiarun&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madapathiarun&layout=compact&theme=tokyonight)  
+![Arun's GitHub Stats](https://github.com/arunmadapathi-1609)
 
 ---
 
 ## 🌱 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](your-portfolio-link)
+[![LinkedIn](https://www.linkedin.com/in/madapathi-arun-a33535313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Portfolio](https://github.com/account)

@@ -34,6 +34,7 @@
 - 📰credit card fraud detection with the logistic regression using the python  .ipynb - using the logistic regression and implemeting it
 - 🧠customer segementation using the k means clusttering.ipynb - using k means clusttering and implementing it
 -📰Big Mart Sales prediction using the Label Encoding and the XGBRegrssor and implementing it
+- Movie Recommendation using the Tfdivectorizer and cosine similarity with the python 
 (More projects pinned below 👇)  
 
 ---
